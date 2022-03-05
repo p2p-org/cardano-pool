@@ -1,0 +1,6 @@
+{
+"name": "P2P validator (testnet)",
+"description": "P2P validator cardano staking pool (testnet)",
+"ticker": "P2P",
+"homepage": "https://p2p.org"
+}
